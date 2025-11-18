@@ -6,4 +6,4 @@ Cómo reproducir:
 3. Subir archivos CSV a Colab (o descargar con el notebook)
 4. Ejecutar celdas
 Requisitos: Python 3.9, tensorflow>=2.10, scikit-learn, joblib, matplotlib
-Video presentación (≤10min): <PON_AQUI_EL_ENLACE>
+Video presentación: https://www.youtube.com/watch?v=ySTRPD-5Xb8
